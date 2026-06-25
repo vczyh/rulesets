@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,clawhub.ai
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,clau.de
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+  - DOMAIN-SUFFIX,intercom.io
